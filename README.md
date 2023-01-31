@@ -1,6 +1,6 @@
 
 ### Olá, Eu sou Ubirajara Santana!
-### Hi, I am Ubirajara Santana!
+# (Hi, I am Ubirajara Santana!)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bir4_s2/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubirajara-santana-júnior-52309424b/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
@@ -8,6 +8,7 @@
 ![Bira's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbira&show_icons=true&theme=outrun)
 
 ## Linguagens que estou aprendendo
+# (Technologies that i'm learning)
 
 <div style="display: inline block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
